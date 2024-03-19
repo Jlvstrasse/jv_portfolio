@@ -3,11 +3,11 @@
 ## Description
 ### This page is a portfolio I made to display my work for future employers.
 
-![JV Portfolio](./assets/pictures/jl_portfolio)
+![JV Portfolio](./assets/pictures/jl_portfolio.jpg)
 
 ## Technologies
 ### HTML and CSS
 
-##Deployed Application
+## Deployed Application
 
 ### https://jlvstrasse.github.io/jv_portfolio/
