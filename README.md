@@ -3,7 +3,7 @@
 ## Description
 ### This page is a portfolio I made to display my work for future employers.
 
-![JV Portfolio](./assets/pictures/jv_portfolio.jpg)
+![JV Portfolio](./assets/pictures/jl_portfolio)
 
 ## Technologies
 ### HTML and CSS
